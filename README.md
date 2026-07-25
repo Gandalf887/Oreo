@@ -5,7 +5,7 @@ Pretty cool stuff :D
 
 Download the source files folder and unzip it, make sure each file is in the same folder. 
 Open the files in your IDE and then open the terminal. Run the following command to compile the code: 
-clang++ main.cpp fen.cpp display.cpp movegen.cpp makeunmake.cpp legal.cpp eval.cpp search.cpp zobrist.cpp gui.cpp transposition.cpp uci.cpp book.cpp -o Oreo1.16.1.9.exe -L"C:/Users/Angad/.raylib-5.0_win64_mingw-w64/lib" -I"C:/Users/Angad/.raylib-5.0_win64_mingw-w64/include" -lraylib -lopengl32 -lgdi32 -lwinmm
+clang++ main.cpp fen.cpp display.cpp movegen.cpp makeunmake.cpp legal.cpp eval.cpp search.cpp zobrist.cpp gui.cpp transposition.cpp uci.cpp book.cpp -o Oreo1.16.1.9.exe -L"C:/Users/"YourName"/.raylib-5.0_win64_mingw-w64/lib" -I"C:/Users/"YourName"/.raylib-5.0_win64_mingw-w64/include" -lraylib -lopengl32 -lgdi32 -lwinmm
 Then run the file using: ./Oreo.1.16.1.9
 
 1.16.1.9 is the version toggled for GUI usage (simply by commenting in the main.cpp file).
