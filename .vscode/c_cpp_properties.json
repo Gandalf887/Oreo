@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Angad\\.raylib-5.0_win64_mingw-w64\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++26",
+            "compilerPath": "C:/msys64/mingw64/bin/clang++.exe"
+        }
+    ],
+    "version": 4
+}
