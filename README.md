@@ -11,4 +11,6 @@ Then run the file using: ./Oreo.1.16.1.9
 1.16.1.9 is the version toggled for GUI usage (simply by commenting in the main.cpp file).
 1.16.1.10 is the version toggled for UCI usage.
 
+Lichess account: https://lichess.org/@/doublestufforeos7
+
 Enjoy!
